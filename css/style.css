@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,200;0,400;0,800;1,200;1,400;1,800&display=swap');
+
+:root {
+    /* Font Family */
+    --global--font-primary: 'Noto Sans', sans-serif;
+
+    /* Font Size */
+    --global--font-size-h1: 12.8rem;
+    --global--font-size-h2: 3.6rem;
+    --global--font-size-h3: 1.8rem;
+    --global--font-size-p: 1.4rem;
+    --global--letter-spacing: normal;
+
+    /* Font Weight */
+    --global--font-weight-regular: 400;
+    --global--font-weight-emphasis: 700;
+
+    /* Spacing & Sizing */
+    --global--spacing-primary: 4rem;
+    --global--spacing-secondary: 1rem;
+    --global--sizing-icon: 2.4rem;
+    --global--sizing-icon-L: 3.6rem; 
+    --global--border-radius: 3.6rem;
+
+    /* Colour */
+    --bg-dark: #363535;
+    --bg-purple: #633C9A;
+    --bg-lime: #ADF05A;
+}
+
+/* Container */
+html { 
+    font-size: 10px; 
+    scroll-behavior: smooth;
+}
+body {
+    font-size: var(--global--font-size-p);
+    font-family: var(--global--font-primary);
+}
+html, body, section {
+    block-size: 100%;
+}
+  
+html {
+    scroll-snap-type: y mandatory;
+}
+
+/* Typography */
+h1, .h1{
+    font-size: var(--global--font-size-h1);
+    margin: 0 0 var(--global--spacing-primary);
+    text-transform: uppercase;
+}
+h2, .h2{
+    font-size: var(--global--font-size-h2);
+    font-weight: var(--global--font-weight-regular);
+}
+h3, .h3{
+    font-size: var(--global--font-size-h3);
+}
+p{
+    line-height: 2rem;
+}

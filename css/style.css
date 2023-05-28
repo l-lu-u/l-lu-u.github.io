@@ -23,9 +23,13 @@
     --global--border-radius: 3.6rem;
 
     /* Colour */
-    --bg-dark: #363535;
-    --bg-purple: #633C9A;
-    --bg-lime: #ADF05A;
+    --colour-egg-shell: #B9E4D7;
+    --colour-cornflower: #0785FC;
+    --colour-beige-200: #F4ECE3;
+    --colour-beige-400:#E3CAB1;
+    --colour-ink: #010817;
+    --colour-cinnabar: #ED360E;
+
 }
 
 /* Container */

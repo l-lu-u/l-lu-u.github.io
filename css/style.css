@@ -1,13 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,200;0,400;0,800;1,200;1,400;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almendra+Display&family=Noto+Serif+SC:wght@200;400;600;900&family=Yatra+One&display=swap');
 
 :root {
     /* Font Family */
-    --global--font-primary: 'Noto Sans', sans-serif;
+    --global--font-heading: 'Yatra One', cursive;
+    --global--font-paragraph: 'Noto Serif SC', serif;
 
     /* Font Size */
-    --global--font-size-h1: 12.8rem;
-    --global--font-size-h2: 3.6rem;
-    --global--font-size-h3: 1.8rem;
+    --global--font-size-h1: 6.4rem;
+    --global--font-size-h2: 4.8rem;
+    --global--font-size-h3: 2.4rem;
     --global--font-size-p: 1.4rem;
     --global--letter-spacing: normal;
 
@@ -23,13 +24,13 @@
     --global--border-radius: 3.6rem;
 
     /* Colour */
-    --colour-egg-shell: #B9E4D7;
+    --colour-eggshell: #B9E4D7;
     --colour-cornflower: #0785FC;
     --colour-beige-200: #F4ECE3;
     --colour-beige-400:#E3CAB1;
     --colour-ink: #010817;
-    --colour-cinnabar: #ED360E;
-
+    --colour-cinnabar: #AF4734;
+    --colour-orange: #F9BA19;
 }
 
 /* Container */
@@ -39,7 +40,7 @@ html {
 }
 body {
     font-size: var(--global--font-size-p);
-    font-family: var(--global--font-primary);
+    font-family: var(--global--font-paragraph);
 }
 html, body, section {
     block-size: 100%;
@@ -50,10 +51,15 @@ html {
 }
 
 /* Typography */
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+    font-family: var(--global--font-heading);
+}
 h1, .h1{
+    
     font-size: var(--global--font-size-h1);
     margin: 0 0 var(--global--spacing-primary);
-    text-transform: uppercase;
 }
 h2, .h2{
     font-size: var(--global--font-size-h2);
@@ -64,4 +70,39 @@ h3, .h3{
 }
 p{
     line-height: 2rem;
+    font-family: var(--global--font-paragraph);
+}
+
+/* Colour */
+._bg-orange {
+    background-color: var(--colour-orange);
+}
+._bg-cinnabar {
+    background-color: var(--colour-cinnabar);
+}
+._bg-beige-light {
+    background-color: var(--colour-beige-200);
+}
+._bg-beige-dark {
+    background-color: var(--colour-beige-400);
+}
+._bg-cornflower{
+    background-color: var(--colour-cornflower);
+}
+._bg-eggshell{
+    background-color: var(--colour-eggshell);
+}
+
+/* Section */
+.section._landing {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: var(--colour-cinnabar);
+    color: var(--colour-orange);
+}
+.container {
+    padding: var( --global--spacing-primary);
+    flex:  1 1 34%;
+    /* text-align: center; */
+    border: 1px var(--colour-orange) dashed;
 }

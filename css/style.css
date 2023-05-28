@@ -99,6 +99,7 @@ p{
     flex-wrap: wrap;
     background-color: var(--colour-cinnabar);
     color: var(--colour-orange);
+    overflow: scroll;
 }
 .container {
     padding: var( --global--spacing-primary);

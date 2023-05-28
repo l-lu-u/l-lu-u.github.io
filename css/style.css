@@ -101,7 +101,7 @@ p{
     color: var(--colour-orange);
     overflow: scroll;
 }
-.container {
+.card {
     padding: var( --global--spacing-primary);
     flex:  1 1 34%;
     /* text-align: center; */

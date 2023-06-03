@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Almendra+Display&family=Noto+Sans+SC:wght@100;300;400;700;900&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;700;900&family=Ovo&display=swap');
 :root {
     /* Font Family */
-    --global--font-heading: 'Yatra One', cursive;
+    --global--font-heading: 'Ovo', serif;
     --global--font-paragraph: 'Noto Sans SC', sans-serif;
 
     /* Font Size */
@@ -16,7 +16,7 @@
     --global--font-weight-emphasis: 700;
 
     /* Spacing & Sizing */
-    --global--spacing-primary: 2.4rem;
+    --global--spacing-primary: 4.8rem;
     --global--spacing-secondary: 1.2rem;
     --global--sizing-icon: 2.4rem;
     --global--sizing-icon-L: 3.6rem; 
@@ -24,12 +24,12 @@
 
     /* Colour */
     --colour-eggshell: #B9E4D7;
-    --colour-cornflower: #0785FC;
-    --colour-beige-200: #F4ECE3;
-    --colour-beige-400:#E3CAB1;
-    --colour-ink: #252525;
+    --colour-cornflower: #0B64B9;
+    --colour-beige: #EEE9E3;
+    --colour-ink: #524334;
     --colour-cinnabar: #AF4734;
     --colour-orange: #F9BA19;
+    --colour-lavendar: #874F81;
 }
 
 /* Container */
@@ -40,6 +40,8 @@ html {
 body {
     font-size: var(--global--font-size-p);
     font-family: var(--global--font-paragraph);
+    background-color: var(--colour-beige);
+    color: var(--colour-ink);
 }
 html, body, section {
     block-size: 100%;
@@ -79,11 +81,8 @@ p{
 ._bg-cinnabar {
     background-color: var(--colour-cinnabar);
 }
-._bg-beige-light {
-    background-color: var(--colour-beige-200);
-}
-._bg-beige-dark {
-    background-color: var(--colour-beige-400);
+._bg-beige {
+    background-color: var(--colour-beige);
 }
 ._bg-cornflower{
     background-color: var(--colour-cornflower);
@@ -92,24 +91,21 @@ p{
     background-color: var(--colour-eggshell);
 }
 
-/* Deco */
-.deco {
-    background: repeat-y url("../images/deco.svg");
-    width: 3.6rem;
-    background-size: contain;
+/* Ornament */
+.img-landing {
+    width: 100%;
 }
 
 /* Section */
-.section._landing {
+.content._landing {
     display: flex;
-    justify-content: space-between;
-    background-color: var(--colour-ink);
-    color: var(--colour-beige-200);
-    overflow: scroll;
+    flex-direction: column;
+    padding: var(--global--spacing-primary);
     height: 100%;
+    align-items: center;
 }
 .card {
     padding: var(--global--spacing-primary) 0;
-    min-width: 24rem;
-    width: 60vw;
+    min-width: 30rem;
+    width: 40vw;
 }

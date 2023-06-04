@@ -10,6 +10,7 @@
     --global--font-size-h3: 1.6rem;
     --global--font-size-p: 1.4rem;
     --global--letter-spacing: normal;
+    --global--line-height-p: 2.2rem;
 
     /* Font Weight */
     --global--font-weight-regular: 400;
@@ -70,7 +71,7 @@ h3, .h3{
     font-size: var(--global--font-size-h3);
 }
 p{
-    line-height: 2.2rem;
+    line-height: var(--global--line-height-p);
     font-family: var(--global--font-paragraph);
 }
 a {
@@ -134,4 +135,9 @@ a:hover{
 .card._hero {
     width: 60vw;
     text-align: center;
+}
+
+/* List */
+ul {
+    line-height: var(--global--line-height-p);
 }

@@ -6,9 +6,9 @@
 
     /* Font Size */
     --global--font-size-h1: 2.4rem;
-    --global--font-size-h2: 1.6rem;
-    --global--font-size-h3: 1.4rem;
-    --global--font-size-p: 1.2rem;
+    --global--font-size-h2: 2.0rem;
+    --global--font-size-h3: 1.6rem;
+    --global--font-size-p: 1.4rem;
     --global--letter-spacing: normal;
 
     /* Font Weight */
@@ -70,8 +70,11 @@ h3, .h3{
     font-size: var(--global--font-size-h3);
 }
 p{
-    line-height: 2rem;
+    line-height: 2.2rem;
     font-family: var(--global--font-paragraph);
+}
+p .highlight {
+    background-color: var(--colour-eggshell);
 }
 
 /* Colour */
@@ -108,4 +111,9 @@ p{
     padding: var(--global--spacing-primary) 0;
     min-width: 30rem;
     width: 40vw;
+}
+.hero {
+    padding: var(--global--spacing-primary) 0;
+    min-width: 30rem;
+    width: 60vw;
 }

@@ -19,6 +19,7 @@
     /* Spacing & Sizing */
     --global--spacing-primary: 4.8rem;
     --global--spacing-secondary: 2.4rem;
+    --global--spacing-intext: 1.6rem;
     --global--sizing-icon: 2.4rem;
     --global--sizing-icon-L: 3.6rem; 
     --global--border-radius: 3.6rem;
@@ -121,7 +122,6 @@ a:hover{
     display: flex;
     flex-direction: column;
     padding: var(--global--spacing-primary);
-    height: 100%;
     align-items: center;
 }
 .card {
@@ -136,8 +136,17 @@ a:hover{
     width: 60vw;
     text-align: center;
 }
-
+.copyright {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto var(--global--spacing-secondary);
+}
 /* List */
 ul {
     line-height: var(--global--line-height-p);
+    list-style-type: ">> ";
+}
+li:not(:last-child) {
+    margin-bottom: var(--global--spacing-intext);
 }

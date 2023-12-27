@@ -109,6 +109,11 @@ a:hover{
 .img-landing {
     width: 100%;
 }
+p img{
+    display: inline-block;
+    width: 100%;
+}
+
 .card::after {
     margin-top:var(--global--spacing-secondary);
     font-family: var(--global--font-heading);

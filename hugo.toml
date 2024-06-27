@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+hasCJKLanguage = true
+author = "Lu"
+copyright = "Copyright © 2024"
+disqusShortname = "LU"
+enableInlineShortcodes = true
+title = 'lù does stuff'

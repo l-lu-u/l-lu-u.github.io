@@ -1,0 +1,34 @@
+{{ define "page" }}
+<article class="container-home">
+  {{ if ne .Kind "home" }}
+  <a href="{{ .Site.Home.RelPermalink }}">Home</a>
+  {{ end }}
+  <h1>{{ .Title }}</h1>
+    <div id="self-portrait">
+        <a href="{{ .Site.BaseURL }}about/">
+            <img src="{{ .Site.BaseURL }}about/images/self-portrait.png" alt="self-portrait"/>
+        </a>
+        <p>"Self-portrait, as well as a mindscape" (2020)</p>
+        <h2>Fuzhou => Singapore => Kyiv => Istanbul => Helsinki</h2>
+    </div>
+  {{ range .Sections }}
+  <div class="container">
+    <ul class="post-list">
+        {{ with .Site.GetPage "/projects" }}
+            {{ range .Pages }}
+                <li class="post-entry" data-title="{{ .Title }}">
+                <div class="organic-shape" id="shape-{{ .File.UniqueID }}">
+                    <!-- SVG will be injected here by JavaScript -->
+                </div>
+                <div class="post-content">
+                    <a class="post-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    <p class="post-subtitle">{{ .Params.subtitle }}</p>
+                </div>
+                </li>
+            {{ end }}
+        {{ end }}
+      </ul>
+  </div>
+  {{ end }}
+</article>
+{{ end }}

@@ -6,6 +6,7 @@
     <title>{{ or .Title .Site.Title }}{{ if ne .Kind "home" }} | {{ .CurrentSection.Title }}{{ end }}</title>
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+    {{- partial "header/favicon.html" . -}}
   </head>
   <body>
     {{ partial "header/site-nav.html" . }}

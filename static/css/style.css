@@ -75,6 +75,14 @@ article {
     background: white;
     padding: 3.2rem 6.4rem;
 }
+.container-post a{
+    text-decoration: underline;
+    background: var(--colour-highlight);
+}
+.container-post a:hover{
+    text-decoration: underline;
+    background: black;
+}
 
 img {
     width: 100%;

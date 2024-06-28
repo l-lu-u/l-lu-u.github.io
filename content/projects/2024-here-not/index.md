@@ -26,6 +26,8 @@ Contributions by
 
 Proofreading by Nastia Svarevska
 
+Supported by Aalto Arts and Aalto Visual Cultures, Curating and Contemporary Art (ViCCA) 
+
 Read flipbook online here: [Here, Not.](https://issuu.com/micolcuratolo/docs/pdfa-page--here-not-digital)
 
 [Download the PDF](https://drive.google.com/file/d/1dnd073S2LEEeka9RuBlCZSV3ZX_4q3sc/view )

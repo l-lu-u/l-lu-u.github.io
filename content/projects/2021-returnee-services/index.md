@@ -1,6 +1,6 @@
 ---
-title: "Re-design the returning journey"
-subtitle: "Service Design for Returning Finnish Emigrants"
+title: "Re-design the returning journey (2021)"
+subtitle: "service design with Suomi-Seura"
 date: 2021-01-14T07:07:07+01:00
 draft: false
 ---

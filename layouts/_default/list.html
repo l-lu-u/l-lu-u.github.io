@@ -1,16 +1,10 @@
 {{ define "page" }}
-<article class="container-home">
+<article class="container">
   {{ if ne .Kind "home" }}
   <a href="{{ .Site.Home.RelPermalink }}">Home</a>
   {{ end }}
   <h1>{{ .Title }}</h1>
-    <div id="self-portrait">
-        <a href="{{ .Site.BaseURL }}about/">
-            <img src="{{ .Site.BaseURL }}about/images/self-portrait.png" alt="self-portrait"/>
-        </a>
-        <p>"Self-portrait, as well as a mindscape" (2020)</p>
-        <h2>Fuzhou => Singapore => Kyiv => Istanbul => Helsinki</h2>
-    </div>
+  {{ partial "header/site-intro.html" . }}
   {{ range .Sections }}
   <div class="container">
     <ul class="post-list">

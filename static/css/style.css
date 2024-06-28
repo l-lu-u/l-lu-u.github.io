@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&display=swap');
 
 :root {
-    --color-accent: #1222d7;
+    --colour-highlight: #B9E4D7;
   }
 
 html {
@@ -60,10 +60,20 @@ article {
   margin: 0 auto;
 }
 
+.text-highlight {
+    background: var(--colour-highlight);
+}
+
+/* Container */
+
 .container {
     position: relative;
     display: flex;
     flex-direction: column;
+}
+.container-post {
+    background: white;
+    padding: 3.2rem 6.4rem;
 }
 
 img {
@@ -89,14 +99,15 @@ img {
 }
 
 .site-nav--item a:hover{
+    color: black;
     display: inline-block;
-    background-color: black;
+    background-color: var(--colour-highlight);
     padding: 1.2rem;
 }
 
 /* Intro */
-#self-portrait {
-    padding: 2.4rem 0;
+.site-intro {
+    text-align: center;
 }
 /* List */
 .post-list {
@@ -143,9 +154,6 @@ img {
     cursor: pointer;
     height: 400px
 }
-.svg-path:hover {
-    fill: var(--color-accent);
-}
 
 .post-content {
     position: absolute;
@@ -178,10 +186,7 @@ img {
 }
 
 /* Post */
-.container-post {
-    background: white;
-    padding: 3.2rem 6.4rem;
-}
+
 
 /* Footer */
 .site-footer {

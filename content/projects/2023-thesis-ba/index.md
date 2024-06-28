@@ -36,7 +36,7 @@ It seems that designers' role of "being an individual in the social fabric" is s
 
 The cover design is based on the character “与/與” (“together; to give”) in Chinese seal script. The seal script illustrated two persons feeding each other food with a spoon (possibly under a roof). As “participation” is translated as “参与/參與,” the character “与/與” aptly depicts the mutually supportive essence of collaborative and participatory design.
 
-## Acknowledgement
+## Thanks to...
 
 I would like to express my deepest gratitude to my supervisor Namkyu Chun and my advisor Emilija Veselova (she/her/they) for all the support and guidance in my first attempt to research into design.
 

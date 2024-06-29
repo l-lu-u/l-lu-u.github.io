@@ -1,7 +1,7 @@
 ---
 title: "From Workshops to Civic Life (2023)"
 subtitle: "thesis, participatory design in civic engagement"
-date: 2024-01-14T07:07:07+01:00
+date: 2023-07-30T07:07:07+01:00
 draft: false
 ---
 

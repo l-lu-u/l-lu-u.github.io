@@ -1,7 +1,7 @@
 ---
 title: "Re-design the returning journey (2021)"
 subtitle: "service design with Suomi-Seura"
-date: 2021-01-14T07:07:07+01:00
+date: 2021-10-30T07:07:07+01:00
 draft: false
 ---
 The interests in examining immigration through the lens of design started in 2021. During the autumn semester, I was working on a course project about designing advice services for Finnish expatriates (as the design brief described). The word "expatriate" intrigued me: who are expatriates? How are they different from "immigrants"? (Am I also an expatriate? But why do I never feel like identifying myself this way?)

@@ -142,6 +142,14 @@ img {
 }
 
 @media (max-width: 768px) {
+    p, ul, ol {
+    font-size: 1.4rem;
+    margin: 0 0 .8em;
+    }
+    .container-post {
+        background: white;
+        padding: 1.6rem 2.4rem;
+    }
     .post-entry {
         flex: 1 1 100% !important; 
     }

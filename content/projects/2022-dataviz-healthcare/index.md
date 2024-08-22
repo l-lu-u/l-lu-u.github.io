@@ -9,7 +9,14 @@ draft: false
 
 ## 2022: The Job Seeking Flunctuations in Nursing (in Finland)
 
-Since a service design project for Finnish emmigrants' returning experience, I have started paying attention to the topic of immigration in the following projects during my study or in everyday life. For example, in an introductory course of Information Design, when I was investigating a dataset about the monthly number of jobseekers and vacancies in the Healthcare sector in Finland, I noticed a possible link between jobseeking and the immigration: [Something you may Care: data behind careworker in Finland (Autumn 2022)](https://www.figma.com/proto/rKyJDHJ89ELLG81i1tmDuE/Information-Design?page-id=0%3A1&node-id=2-8&viewport=236%2C-267%2C0.21&scaling=contain&starting-point-node-id=2%3A8)
+{{< rawhtml >}} 
+<iframe title="Jobseekers and vacancies in nursing associate professionals during the month (2006 - 2022)" aria-label="Interactive line chart" id="datawrapper-chart-Kwgn9" src="https://datawrapper.dwcdn.net/Kwgn9/13/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="680" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+{{< /rawhtml >}}
+
+In an introductory course to Information Design, I decided to investigate a dataset about the monthly number of jobseekers and vacancies in the Healthcare sector in Finland. The job seeker numbers and vacancies flunctuate mostly in a periodical pattern. Yet, there are still certain parts that we cannot easily explain, for example, the peaking amount of job seekers in early 2017. 
+
+After digging up some news, some friends and I noticed a possible link between jobseeking and the immigration: [Something you may Care: data behind careworker in Finland (Autumn 2022)](https://www.figma.com/proto/rKyJDHJ89ELLG81i1tmDuE/Information-Design?page-id=0%3A1&node-id=2-8&viewport=236%2C-267%2C0.21&scaling=contain&starting-point-node-id=2%3A8)
 
 [![Immigration heatmap](./images/immigration-heatmap.jpg)](./images/immigration-heatmap.jpg)
 *Heatmap of immigration to Finland by month from January 2006 to December 2022*

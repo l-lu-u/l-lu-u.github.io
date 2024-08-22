@@ -5,7 +5,7 @@ date: 2023-03-14T07:07:07+01:00
 draft: false
 ---
 
-*on visualising & intepreting the data*
+*visualisation -> interpretation: correlation, or not?*
 
 ## 2022: The Job Seeking Flunctuations in Nursing (in Finland)
 

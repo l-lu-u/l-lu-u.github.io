@@ -9,12 +9,12 @@ draft: false
 
 ## Question: How participatory design might facilitate immigrants' civic engagement (in Finland)?
 
+(This work is publicly available on AaltoDoc, you may access it here: <https://urn.fi/URN:NBN:fi:aalto-202307094449>)
+
 During the spring of 2023, I graduated from the BA Design study with my thesis titled *“From Workshops to Civic Life: Participatory Design in Supporting Immigrants’ Civic Engagement in Finland.”* In this thesis, I aimed to investigate the roles of design and designers in supporting immigrants’ civic engagement in Finland. By interviewing 8 designers who had experiences working with public agencies and participants with immigrant backgrounds, I acquired an overview about the applications of design in public service development, as well as designers' challenges.
 
 [![From Workshops to Civic Life: Participatory Design in Supporting Immigrants’ Civic Engagement in Finland](./images/thesis-cover-ba.png)](https://urn.fi/URN:NBN:fi:aalto-202307094449)
 *>> From Workshops to Civic Life: Participatory Design in Supporting Immigrants’ Civic Engagement in Finland (2023) <<*
-
-This work is publicly available on AaltoDoc, you may access it here: <https://urn.fi/URN:NBN:fi:aalto-202307094449>
 
 One may ask: why does civic engagement matter for immigrants? And, after all, what does it mean by “civic engagement”? Integration is defined as an interactive development process that requires mutual accommodation from both the immigrants and the hosting society by the Finnish government. Within the present integration monitoring system, public participation has been assessed as a strong indicator of integration. Immigrants’ participation reflects one’s sense of belonging in the host society. The matter of ownership and the opportunities to realise one’s potential are fundamental for immigrants to become an integral part of the new environment. Thus, adequate opportunities for participation imply social cohesion between the immigrant population and the host society.
 

@@ -1,13 +1,18 @@
 ---
-title: "Queering the Making: From My Making of a Menstruating Machine to More (2024)"
+title: "Queering the Making (2024)"
 subtitle: "making & thinking"
 date: 2024-07-06T07:07:07+01:00
 draft: false
 ---
 
-[![Mechanical Menstruation Installation Prototype Overview](./images/2024--lu-spill-overall.jpg)](./images/2024--lu-spill-overall.jpg)
+## Unpack the Binary: From My Making of a Menstruating Machine to More
 
-## Unpack the Binary
+[![Mechanical Menstruation Installation Prototype Overview](./images/2024--lu-spill-overall.jpg)](./images/2024--lu-spill-overall.jpg)
+*Photo of the 'menstruating machine' prototype, version in 2023*
+
+{{< rawhtml >}} 
+<div style="padding:149.33% 0 0 0;position:relative;"><iframe src="https://youtube.com/shorts/hEh1hG7DUSw?si=x4zSWovue8rzqJ4F" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="picture-in-picture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< /rawhtml >}}
 
 “…Technology has begun to make creating easy enough that *everyone* can make,” said Mark Hatch (2013) in the Maker Movement Manifesto. It sounded convincing: in 2009, the Fused Deposition Modelling (FDM) printing process patents expired, which led to the booming development of affordable FDM 3D printers. With the rise of open-source initiatives, tools for 3D printing and some other industrial-level manufacturing processes are now accessible for schools, community workshops, and individual consumer-makers. At the beginning of the 2000s, the enthusiastic call for “making” seemed to promise us an empowering future where creativity would be democratised, and innovations could happen anywhere. 
 

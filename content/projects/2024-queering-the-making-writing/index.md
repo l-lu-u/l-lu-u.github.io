@@ -29,5 +29,5 @@ The heteronormative ideology has also influenced our perceptions of *labour*. We
 Lastly, we should explore the tension between humans and *machines* at the technology-oriented workshops. There exist (at least) two images of machine: one portrays a powerful (and fearful) object with precise and consistent performance, while the other one depicts a much less perfect or reliable being with some “mysterious” quirks in its way of working. The contradicting facets led us to question the idea of “objectivity” endorsed by the techno-patriarchal tenets, and further speculate the making of futures based on our (symbiotic) relations with the machines and the materials involved in our making.
 
 {{< rawhtml >}} 
-<iframe width="1090" height="auto" src="https://www.youtube.com/embed/6LwinBfyyfM" title="SPILL - Prototype 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/6LwinBfyyfM" title="SPILL - Prototype 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}

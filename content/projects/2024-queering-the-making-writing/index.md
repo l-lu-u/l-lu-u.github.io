@@ -11,7 +11,7 @@ draft: false
 *Photo of the 'menstruating machine' prototype, version in 2023*
 
 {{< rawhtml >}} 
-<div style="padding:149.33% 0 0 0;position:relative;"><iframe src="https://youtube.com/shorts/hEh1hG7DUSw?si=x4zSWovue8rzqJ4F" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="picture-in-picture"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:149.33% 0 0 0;position:relative;"><iframe src="https://youtube.com/shorts/hEh1hG7DUSw?si=x4zSWovue8rzqJ4F" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="picture-in-picture"></iframe></div>
 {{< /rawhtml >}}
 
 “…Technology has begun to make creating easy enough that *everyone* can make,” said Mark Hatch (2013) in the Maker Movement Manifesto. It sounded convincing: in 2009, the Fused Deposition Modelling (FDM) printing process patents expired, which led to the booming development of affordable FDM 3D printers. With the rise of open-source initiatives, tools for 3D printing and some other industrial-level manufacturing processes are now accessible for schools, community workshops, and individual consumer-makers. At the beginning of the 2000s, the enthusiastic call for “making” seemed to promise us an empowering future where creativity would be democratised, and innovations could happen anywhere. 
@@ -26,4 +26,8 @@ Through the lens of queer theory, we recognise *gender* as a social construct. N
 
 The heteronormative ideology has also influenced our perceptions of *labour*. We have to admit that certain works are more celebrated in makerspaces. “Making,” especially the technical making, and its knowledge, are easily recognised and valued. Meanwhile, the labours that form the infrastructure of making are often deprioritised, which include but are not limited to caregiving, education, and community maintenance. (Un)surprisingly, this view on productivity and values reflects the patriarchal narratives of gendered labour. 
 
-Lastly, we should explore the tension between humans and *machines* at the technology-oriented workshops. There exist (at least) two images of machine: one portrays a powerful (and fearful) object with precise and consistent performance, while the other one depicts a much less perfect or reliable being with some “mysterious” quirks in its way of working. The contradicting facets led us to question the idea of “objectivity” endorsed by the techno-patriarchal tenets, and further speculate the making of futures based on our (symbiotic) relations with the machines and the materials involved in our making.  
+Lastly, we should explore the tension between humans and *machines* at the technology-oriented workshops. There exist (at least) two images of machine: one portrays a powerful (and fearful) object with precise and consistent performance, while the other one depicts a much less perfect or reliable being with some “mysterious” quirks in its way of working. The contradicting facets led us to question the idea of “objectivity” endorsed by the techno-patriarchal tenets, and further speculate the making of futures based on our (symbiotic) relations with the machines and the materials involved in our making.
+
+{{< rawhtml >}} 
+<div style="padding:149.33% 0 0 0;position:relative;"><iframe src="https://youtu.be/6LwinBfyyfM?si=NJykqoY27HBkjkZZ" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="picture-in-picture"></iframe></div>
+{{< /rawhtml >}}

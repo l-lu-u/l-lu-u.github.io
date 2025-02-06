@@ -14,15 +14,15 @@ first edition created in October 2023, below is the 2024 edition
 
 {{< video src="/videos/2024-sonic-fetus.mp4" type="video/mp4" controls="yes" preload="auto" >}}
 
-<!-- {{< rawhtml >}} 
-<div style="padding:149.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/881208875?h=9a2a3b9f7b" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-{{< /rawhtml >}} -->
-
 ## Question: What is growing...?
 
-At the "Audiovisual Workshop" course in October 2023, I came across a corpus related to pregnancy on GitHub. Although the dataset is categorised under “science,” the entries contain the count of weeks, the name of a fruit, size, and weight. After some investigation, I found out that this corpus is comparing the growth of a human fetus to a type of fruit by weeks. This vivid and playful comparison is commonly used in obstetrics and gynaecology.
+At the "Audiovisual Workshop" course in October 2023, I came across [this corpus related to pregnancy on GitHub](https://github.com/dariusk/corpora/blob/master/data/science/pregnancy.json). Although the dataset is categorised under “science,” the entries contain the count of weeks, the name of a fruit, size, and weight. After some investigation, I found out that this corpus is comparing the growth of a human fetus to a type of fruit by weeks. This vivid and playful comparison is commonly used in obstetrics and gynaecology.
 
 Combining the audio-reactive visuals with Stablediffusion, "sonic fetus" is my experiment to imagine this "fruity" analogy about human fetal development. The week count increments with every kick in the music while the fetus grows with the deep beat of the surdo and the "cry" of the cuica. From week 3 to week 40, the fetus transforms from a poppy seed to almost a pumpkin.
+
+"Sonic Fetus" was originally created as a course project for "Audiovisual Workshop" at Aalto Media Lab. The 2023 edition can be viewed here: [Lù / 璐 | sonic fetus / 阵痛, Aalto Media Lab, 2023](https://vimeo.com/881208875). From 2023 till now, we are witnessing the overwhelming impact of generative AI across industries - as well as all the excitements and worries. For now, it seems that one has to mention "AI" in any discourse, to apply "AI" for any experiment. Chat bots have become both a magical "helping hand" at work and your biggest threat for your employment situation. Meanwhile, consideration and regulation regarding ethics appear to be the sprinkles to top in this ongoing AI heat. 
+
+Looking at the morphing sonic fetus, I wonder: what are we birthing...?
 
 <!-- Originally, I planned to create a VJ tool for voguing and the ballroom scene. Yet, I came across [this corpus related to pregnancy on GitHub](github.com/dariusk/corpora/blob/master/data/science/pregnancy.json). Although the dataset is categorised under “science,” the entries contain the count of weeks, the name of a fruit, size, and weight. -->
 

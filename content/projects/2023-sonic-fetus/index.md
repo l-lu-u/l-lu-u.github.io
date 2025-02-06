@@ -14,7 +14,7 @@ first edition created in October 2023, below is the 2024 edition
 
 {{< video src="/videos/2024-sonic-fetus.mp4" type="video/mp4" controls="yes" preload="auto" >}}
 
-## Question: What is growing...?
+## Question & Reflection: What are we birthing...?
 
 At the "Audiovisual Workshop" course in October 2023, I came across [this corpus related to pregnancy on GitHub](https://github.com/dariusk/corpora/blob/master/data/science/pregnancy.json). Although the dataset is categorised under “science,” the entries contain the count of weeks, the name of a fruit, size, and weight. After some investigation, I found out that this corpus is comparing the growth of a human fetus to a type of fruit by weeks. This vivid and playful comparison is commonly used in obstetrics and gynaecology.
 

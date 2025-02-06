@@ -7,9 +7,11 @@ draft: false
 
 *corpus -> audiovisual, generative AI*
 
-{{< rawhtml >}} 
+{{< video src="/videos/2024-sonic-fetus.mp4" type="video/mp4" controls="yes" preload="auto" >}}
+
+<!-- {{< rawhtml >}} 
 <div style="padding:149.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/881208875?h=9a2a3b9f7b" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-{{< /rawhtml >}}
+{{< /rawhtml >}} -->
 
 ## Question: What is growing...?
 

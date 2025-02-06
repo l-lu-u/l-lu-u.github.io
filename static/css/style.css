@@ -203,6 +203,11 @@ img {
 
 /* Post */
 
+/* Video */
+.video-shortcode {
+    max-width: 100%;
+    height: auto;
+}
 
 /* Footer */
 .site-footer {

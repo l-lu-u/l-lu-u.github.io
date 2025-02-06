@@ -11,7 +11,7 @@ draft: false
 *Photo of the 'menstruating machine' prototype, version in 2023*
 
 {{< rawhtml >}} 
-<iframe width="402" height="714" src="https://www.youtube.com/embed/hEh1hG7DUSw" title="SPILL - demo part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="margin:auto;"><iframe width="402" height="714" src="https://www.youtube.com/embed/hEh1hG7DUSw" title="SPILL - demo part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 {{< /rawhtml >}}
 
 “…Technology has begun to make creating easy enough that *everyone* can make,” said Mark Hatch (2013) in the Maker Movement Manifesto. It sounded convincing: in 2009, the Fused Deposition Modelling (FDM) printing process patents expired, which led to the booming development of affordable FDM 3D printers. With the rise of open-source initiatives, tools for 3D printing and some other industrial-level manufacturing processes are now accessible for schools, community workshops, and individual consumer-makers. At the beginning of the 2000s, the enthusiastic call for “making” seemed to promise us an empowering future where creativity would be democratised, and innovations could happen anywhere. 
@@ -29,5 +29,5 @@ The heteronormative ideology has also influenced our perceptions of *labour*. We
 Lastly, we should explore the tension between humans and *machines* at the technology-oriented workshops. There exist (at least) two images of machine: one portrays a powerful (and fearful) object with precise and consistent performance, while the other one depicts a much less perfect or reliable being with some “mysterious” quirks in its way of working. The contradicting facets led us to question the idea of “objectivity” endorsed by the techno-patriarchal tenets, and further speculate the making of futures based on our (symbiotic) relations with the machines and the materials involved in our making.
 
 {{< rawhtml >}} 
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/6LwinBfyyfM" title="SPILL - Prototype 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="margin:auto;"><iframe width="100%" height="600" src="https://www.youtube.com/embed/6LwinBfyyfM" title="SPILL - Prototype 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 {{< /rawhtml >}}

@@ -5,6 +5,8 @@ date: 2024-12-23T07:07:07+01:00
 draft: false
 ---
 
+*data visualisation, remediate & represent*
+
 View the archival visualisations:[https://nokiadesignarchive.aalto.fi/](https://nokiadesignarchive.aalto.fi/)
 
 Creators of the site: Lu Chen, Michel Nader Sayún, and Kaisu Savola

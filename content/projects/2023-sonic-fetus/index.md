@@ -9,10 +9,12 @@ draft: false
 
 ## Sonic Fetus
 
-Duration: 1:21
-first edition created in October 2023, below is the 2024 edition
+Duration: 1:21 
+
+(first edition created in October 2023, below is the 2024 edition)
 
 {{< video src="/videos/2024-sonic-fetus.mp4" type="video/mp4" controls="yes" preload="auto" >}}
+*Lù, 2024*
 
 ## Question & Reflection: What are we birthing...?
 

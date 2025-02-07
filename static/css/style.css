@@ -203,10 +203,17 @@ img {
 
 /* Post */
 
-/* Video */
+/* Video */ 
 .video-shortcode {
     max-width: 100%;
-    height: auto;
+    max-height: 400px;
+}
+
+@media (max-width: 768px) {
+    .video-shortcode {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 /* Footer */

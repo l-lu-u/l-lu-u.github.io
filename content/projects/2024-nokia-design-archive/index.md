@@ -14,7 +14,7 @@ With the support from the Nokia Design Archive team and Aalto University Communi
 
 ## Remediating Archival Material for Accessible Knowledge
 [![A preview of the Nokia Design Archive](./images/preview--nokia-design-archive.jpg)](./images/preview--nokia-design-archive.jpg)
-*A preview of the Nokia Design Archive*
+*A preview of the Nokia Design Archive, Image: Lu Chen, Aalto University*
 
 The Nokia Design Archive is a publicly accessible, online digital portal, created as a research project in the Department of Design at Aalto University, Finland. With items donated by Microsoft Mobile Oy and former Nokia designers, the research group curated a unique and previously unseen collection to study the history of design and technological development. The collection spans the mid-90s, through Nokia’s heyday, up until 2017 when the brand’s handset operations ended.
 

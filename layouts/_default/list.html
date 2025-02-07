@@ -11,13 +11,17 @@
         {{ with .Site.GetPage "/projects" }}
             {{ range .Pages }}
                 <li class="post-entry" data-title="{{ .Title }}">
-                <div class="organic-shape" id="shape-{{ .File.UniqueID }}">
-                    <!-- SVG will be injected here by JavaScript -->
-                </div>
-                <div class="post-content">
-                    <a class="post-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
-                    <p class="post-subtitle">{{ .Params.subtitle }}</p>
-                </div>
+                    <a  href="{{ .RelPermalink }}">
+                        <div class="organic-shape" id="shape-{{ .File.UniqueID }}">
+                            <!-- SVG will be injected here by JavaScript -->
+                        </div>
+                        <div class="post-content">
+                            <!-- <a class="post-title" href="{{ .RelPermalink }}">{{ .Title }}</a> -->
+                            <p class="post-title">{{ .Title }}</p>
+                            <p class="post-subtitle">{{ .Params.subtitle }}</p>
+                        </div>
+                    </a>
+                
                 </li>
             {{ end }}
         {{ end }}

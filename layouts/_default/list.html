@@ -11,7 +11,7 @@
         {{ with .Site.GetPage "/projects" }}
             {{ range .Pages }}
                 <li class="post-entry" data-title="{{ .Title }}">
-                    <a  href="{{ .RelPermalink }}">
+                    <a href="{{ .RelPermalink }}">
                         <div class="organic-shape" id="shape-{{ .File.UniqueID }}">
                             <!-- SVG will be injected here by JavaScript -->
                         </div>

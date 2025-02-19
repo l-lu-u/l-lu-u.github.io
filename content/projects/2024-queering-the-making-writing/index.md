@@ -1,6 +1,8 @@
 ---
 title: "Queering the Making (2024)"
 subtitle: "making & thinking"
+description: ""
+image: ""
 date: 2024-07-06T07:07:07+01:00
 draft: false
 ---

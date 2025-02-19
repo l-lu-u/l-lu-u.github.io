@@ -1,6 +1,8 @@
 ---
 title: "Re-design the returning journey (2021)"
 subtitle: "service design with Suomi-Seura"
+description: ""
+image: ""
 date: 2021-10-30T07:07:07+01:00
 draft: false
 ---

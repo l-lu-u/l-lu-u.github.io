@@ -1,6 +1,8 @@
 ---
 title: "Untranslatable Nights (2022, 2024)"
 subtitle: "languages, multicultural, poetry open-mic"
+description: ""
+image: ""
 date: 2024-08-05T07:07:07+01:00
 draft: false
 ---

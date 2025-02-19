@@ -1,6 +1,8 @@
 ---
 title: "Startup Refugees x Flow (2023)"
 subtitle: "festival experience"
+description: ""
+image: ""
 date: 2023-05-10T07:07:07+01:00
 draft: false
 ---

@@ -1,6 +1,8 @@
 ---
 title: "Nokia Design Archive (2023 - )"
 subtitle: "archival visualisations"
+description: ""
+image: ""
 date: 2024-12-23T07:07:07+01:00
 draft: false
 ---

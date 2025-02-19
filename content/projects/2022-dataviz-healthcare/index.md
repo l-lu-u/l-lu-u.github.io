@@ -1,6 +1,8 @@
 ---
 title: "Visualising (Public) Health (2022, 2023)"
 subtitle: "interactive data visualisation"
+description: ""
+image: ""
 date: 2023-03-14T07:07:07+01:00
 draft: false
 ---

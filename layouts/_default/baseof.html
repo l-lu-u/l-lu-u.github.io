@@ -6,8 +6,8 @@
     <title>{{ or .Title .Site.Title }}{{ if ne .Kind "home" }} | {{ .CurrentSection.Title }}{{ end }}</title>
     <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
-    {{- partial "header/favicon.html" . -}}
-    {{- partial "header/metadata.html" . -}}
+    {{- partial "head/favicons.html" . -}}
+    {{- partial "head/metadata.html" . -}}
   </head>
   <body>
     {{ partial "header/site-nav.html" . }}

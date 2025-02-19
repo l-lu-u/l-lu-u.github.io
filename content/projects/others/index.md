@@ -1,6 +1,8 @@
 ---
 title: "Others"
 subtitle: "subtitle"
+description: ""
+image: ""
 date: 2022-01-14T07:07:07+01:00
 draft: true
 ---

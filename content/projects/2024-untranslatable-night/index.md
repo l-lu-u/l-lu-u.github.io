@@ -7,6 +7,10 @@ draft: false
 
 Co-host by Lù & Zina, special thanks to D.I.O space, Salarakas, Kalleria, and Jonna Eloranta (for all the inspiration and support).
 
+[![Untranslatable Night 2.0 Scene](./images/2024--untranslatable-night-scene.jpg)](./images/2024--untranslatable-night-scene.jpg)
+
+*The setup of Untranslatable Night 2.0 at Galleria Kalleria, for Salarakas' 4th Anniversary*
+
 ## The Invitation
 
 🌌*We invite you to come and share an evening of (possible) misunderstandings*

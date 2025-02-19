@@ -5,7 +5,7 @@ date: 2024-08-05T07:07:07+01:00
 draft: false
 ---
 
-Co-host by Lù & Zina, special thanks to D.I.O space, Salarakas, Kalleria, and Jonna.
+Co-host by Lù & Zina, special thanks to D.I.O space, Salarakas, Kalleria, and Jonna Eloranta (for all the inspiration and support).
 
 ## The Invitation
 
@@ -18,3 +18,9 @@ Co-host by Lù & Zina, special thanks to D.I.O space, Salarakas, Kalleria, and J
 ✨*You are welcome to come and just listen as well.*
 
 💕*These will not be translated since we hope that those present interpret the words and language in its emotional, untranslated state.*
+
+[![Untranslatable Night 2.0 Inviation - English](./images/2024--untranslatable-night--invite-en.jpg)](./images/2024--untranslatable-night--invite-en.jpg)
+
+[![Untranslatable Night 2.0 Inviation - Chinese](./images/2024--untranslatable-night--invite-ch.jpg)](./images/2024--untranslatable-night--invite-ch.jpg)
+
+[![Untranslatable Night 2.0 Inviation - Spanish](./images/2024--untranslatable-night--invite-espanol.jpg)](./images/2024--untranslatable-night--invite-espanol.jpg)

@@ -50,7 +50,7 @@ a {
 }
 
 a:hover {
-    color: var(colour-highlight);
+    color: var(--colour-highlight);
     background-color: black;
 }
 
@@ -196,7 +196,7 @@ img {
 .post-subtitle {
     display: none; /* Hide subtitle by default */
     font-size: 1.4rem; 
-    color: white;
+    color: var(--colour-highlight);
     text-align: center;
     margin-top: 1rem;
 }

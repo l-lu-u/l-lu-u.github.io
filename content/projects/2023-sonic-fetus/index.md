@@ -8,7 +8,7 @@ draft: false
 *corpus -> audiovisual, generative AI*
 
 
-**Sonic Fetus/阵痛** 2024
+Sonic Fetus/阵痛 (2024)
 
 Artisit: Lù
 

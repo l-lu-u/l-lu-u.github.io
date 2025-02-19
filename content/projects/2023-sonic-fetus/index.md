@@ -1,6 +1,8 @@
 ---
 title: "Sonic Fetus/阵痛 (2023, 2024)"
 subtitle: "data + audiovisual"
+description: "'Sonic Fetus' is my experiment to imagine a 'fruity' analogy about human fetal development, combining audio-reactive visuals with Stablediffusion."
+image: "images/feature.png"
 date: 2023-10-08T07:07:07+01:00
 draft: false
 ---

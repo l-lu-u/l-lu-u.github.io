@@ -1,0 +1,8 @@
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ .Params.description | default .Summary }}" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:image" content="{{ .Params.image | absURL }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:locale" content="en_US" />

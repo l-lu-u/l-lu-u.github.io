@@ -3,6 +3,8 @@
 <meta property="og:description" content="{{ .Params.description | default .Summary }}" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:image" content="{{ (.Resources.GetMatch .Params.image).RelPermalink }}" />
+{{ with .Resources.GetMatch .Params.image }}
+    <meta property="og:image" content="{{ .RelPermalink }}" />
+{{ end }}
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 <meta property="og:locale" content="en_US" />

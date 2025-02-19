@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
             const svgPath = post.querySelector('.svg-path');
             svgPath.style.fill = 'black';
             const title = post.querySelector('.post-title');
-            title.style.color = 'var(--colour-highlight)';
+            title.style.color = 'white';
             const subtitle = post.querySelector('.post-subtitle');
             subtitle.style.display = 'block'; // Show subtitle on hover
         });

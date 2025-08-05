@@ -18,7 +18,9 @@ draft: false
 The pillars visible in the panorama, are part of a pavilion, *Daoshan Ting* [Chinese: 道山亭; Pinyin: Dào Shān Tíng, meaning ‘Pavilion of Tao Hill’]. The text on the pillars are two lines of a poem written by an early 18th century literatus Xu Ding [Chinese: 许鼎; Pinyin: Xú Dǐng]. The poem reads: 
 
 > ‘江光回抱千峦迥，树色遥连万井阴。’ 
+
 > [Shining river waves embrace the thousands of mountains near and far;
+
 > Tree shadows stretch into the distance, linking countless houses.]
 
 Written before the invention of photography, these fourteen words guide us into a panoramic journey —traversing the landscape from the river afar to the woods right in front —entirely through the medium of text. 
@@ -27,7 +29,7 @@ Perhaps, portraying panoramic landscape was always an interest of Chinese litera
 
 Like how I spun in the pavilion to capture all the pillars.
 
-The pavilion was originally built in the year 1068, under the command of Cheng Shi-Meng [Chinese: 程师孟; Pinyin: Chéng Shī Mèng], the local governor of Fuzhou. Upon the visit to this site, Cheng Shi Meng felt the surrounding scenery resembled the depiction of Taoist wonderland and thus renamed the hill from Wu Shan [乌山; Pinyin: Wū Shān, meaning ‘Crow Hill’] to Dao Shan [Chinese: 道山; Pinyin: Dào Shān, meaning ‘Tao Hill’]. Indeed, throughout the following hundreds of years, this mountain gradually attracted Taoist and Buddhist priests to set up temples or reside for seclusion practices.
+The pavilion was originally built in the year 1068, under the command of Cheng Shi-Meng [Chinese: 程师孟; Pinyin: Chéng Shī Mèng], the local governor of Fuzhou. Upon the visit to this site, Cheng Shi Meng felt the surrounding scenery resembled the depiction of Taoist wonderland and thus renamed the hill from *Wu Shan* [乌山; Pinyin: Wū Shān, meaning ‘Crow Hill’] to Dao Shan [Chinese: 道山; Pinyin: Dào Shān, meaning ‘Tao Hill’]. Indeed, throughout the following hundreds of years, this mountain gradually attracted Taoist and Buddhist priests to set up temples or reside for seclusion practices.
 
 For anyone who is less familiar with Chinese late modern history, the name Fuzhou sounds distant. In older *Western* publications, this city was varyingly romanized as *Foochow*, *Foo-chow*, *Fuhchau*, *Hokchew*, *Hock Chew*, and more. By searching any of the abovementioned alternative romanizations, one may realize that this remote Far East city is surprisingly present in museum and archival collections in the West.  
 
@@ -47,8 +49,34 @@ Nevertheless, this agreement did not fully resolve the tension between the local
 
 *Figure 3. An engraving included in Eugene Stock’s book The Story of the Fuh-Kien Mission of the Church Missionary Society (1877), depicting the city of Fuzhou from Black-stone Hill (or Wu Shih Shan).*
 
-The determination of CMS missionaries to stay on this hill may appear strange. In a letter written upon his arrival at Fuzhou in 1863, John Richard Wolfe described a similar scenery to Xu Ding’s poem, and further explained what this location meant for the mission:
+The determination of CMS missionaries to stay on this hill may appear strange. Upon Wolfe’s arrival at Fuzhou in 1863, he explained in a letter about what the location of Wu Shih Shan meant for the mission to Eugene Stock, the senior editorial secretary at the Church Missionary Society in London. In the letter, Wolfe described a similar scenery to Xu Ding’s poem:
 
 > *‘… The whole city is seen from our door (see Note 2), so that we can never go out or come in without being reminded of the vastness of our work, and our own want of strength to accomplish it.’*
 
-*Vastness.* Similar to the map stored in the Rijksmuseum, these images of Fuzhou seem to always carry the passionate gaze from the ambitious foreign surveyors towards the *exotic* project before their eyes. This attitude may remind us of Said’s description in *Orientalism* —to get hold of the ‘whole sprawling panorama’.
+*Vastness*, Wolfe emphasized. Similar to the map stored in the Rijksmuseum, these old images of Fuzhou seem to always carry the passionate gaze from the ambitious foreign surveyors towards the *exotic* project before their eyes. This attitude may remind us of Said’s depiction of an orientalist —to get hold of the ‘whole sprawling panorama’.
+
+We can indeed find some panoramas of the 1860s Fuzhou in the archive at the University of Bristol. A photo album of John Gurney Fry, an English tea merchant worked in Fuzhou around the 1860s, contains seven multi-part panoramas of Fuzhou. One of them is the four-part image below, portraying the Nantai Island from another angle. Pictures in this album were mostly taken by Lai Afong from Canton and John Thomson from Scottland. By the 1860s, various photography techniques had been developed, which allowed travelers in Fuzhou to comprehensively document their journeys. Panoramas seem to be the most suitable format for souvenir remembrance. By assembling individual photos, one can nearly recreate the view and immerse themselves into the vast landscape at the specific time and space, again.
+
+[![Figure 4. Panorama of Nantai island and Wanshou Qiao (meaning ‘the Bridge of Ten Thousand Ages’), Fuzhou. Found in the album of John Gurney Fry.](./images/fr01-162.jpg)](./images/fr01-162.jpg)
+
+*Figure 4. Panorama of Nantai island and Wanshou Qiao (meaning ‘the Bridge of Ten Thousand Ages’), Fuzhou. Found in the album of John Gurney Fry.*
+
+
+
+[![Figure 5. Engraving published on Illustrated London News (1884), titled The French war in China: view of the city of Foochow, from the British Consulate. The stone bridge across the river is Wanshou Qiao, while the pagoda at far on the left is Black Pagoda located at the eastern foot of Dao Shan (or Wu Shan).](./images/ILN-123.jpg)](./images/ILN-123.jpg)
+
+*Figure 5. Engraving published on Illustrated London News (1884), titled The French war in China: view of the city of Foochow, from the British Consulate. The stone bridge across the river is Wanshou Qiao, while the pagoda at far on the left is Black Pagoda located at the eastern foot of Dao Shan (or Wu Shan).*
+
+## Note
+1. You may have known him from the historical fantasy Babel by R.F. Kuang. Lin Zexu was born in Fuzhou. After retirement, he returned to Fuzhou in 1850.
+2. Referring to the CMS residence at Daoshan Guan.
+
+## References
+- Anonymous draughtsperson, China. c. 1670–1700. View of Fuzhou. https://id.rijksmuseum.nl/20062570.
+- Doolittle, Justus. 1865. Social life of the Chinese. https://archive.org/details/sociallifeofchin0002revj/page/362/.
+- Huhtamo, Erkki. Elements of screenology: Toward an Archaeology of the Screen. In Navigationen - Zeitschrift für Medien- und Kulturwissenschaften, Jg. 6 (2006), Nr. 2, S. 31-64.10.25969/mediarep/1958
+- Illustrated London News. 1884. The French war in China: view of the city of Foochow, from the British Consulate. Hong Kong Baptist University Library Art Collections. https://bcc.lib.hkbu.edu.hk/artcollection/iln-123/
+- Stock, Eugene. 1877. The story of the Fuh-kien mission of the Church Missionary Society. https://archive.org/details/storyoffuhkienmi00stoc/page/12/.
+- The Wu Shih Shan Trial: Report of the case of Chow Chang Kung, Lin King Ching, Loo King Fah, Sat Keok Min, directors of the Taou Shan Kwan Temple, at Wu Shih Shan, Foochow, versus Rev. John Richard. Wolfe, of the Church of England Missionary Society. Great Britain Supreme Court for China https://archive.org/details/wushihshantrialr00fuchrich/.
+- University of Bristol. 1860s. Panorama of Nantai and the Bridge of Ten Thousand Ages, Fuzhou. https://hpcbristol.net/visual/Fr01-162
+- Xi, Tang. 唐希. 2010. 话说福州老照片 [Talking about old photos of Fuzhou: the history of photography in Fuzhou]. Fuzhou: Haifeng Publishing House.

@@ -17,9 +17,9 @@ draft: false
 
 The pillars visible in the panorama, are part of a pavilion, *Daoshan Ting* [Chinese: 道山亭; Pinyin: Dào Shān Tíng, meaning ‘Pavilion of Tao Hill’]. The text on the pillars are two lines of a poem written by an early 18th century literatus Xu Ding [Chinese: 许鼎; Pinyin: Xú Dǐng]. The poem reads: 
 
-    ‘江光回抱千峦迥，树色遥连万井阴。’ 
-    [Shining river waves embrace the thousands of mountains near and far;
-    Tree shadows stretch into the distance, linking countless houses.]
+> ‘江光回抱千峦迥，树色遥连万井阴。’ 
+> [Shining river waves embrace the thousands of mountains near and far;
+> Tree shadows stretch into the distance, linking countless houses.]
 
 Written before the invention of photography, these fourteen words guide us into a panoramic journey —traversing the landscape from the river afar to the woods right in front —entirely through the medium of text. 
 
@@ -49,6 +49,6 @@ Nevertheless, this agreement did not fully resolve the tension between the local
 
 The determination of CMS missionaries to stay on this hill may appear strange. In a letter written upon his arrival at Fuzhou in 1863, John Richard Wolfe described a similar scenery to Xu Ding’s poem, and further explained what this location meant for the mission:
 
-    *‘… The whole city is seen from our door (see Note 2), so that we can never go out or come in without being reminded of the vastness of our work, and our own want of strength to accomplish it.’*
+> *‘… The whole city is seen from our door (see Note 2), so that we can never go out or come in without being reminded of the vastness of our work, and our own want of strength to accomplish it.’*
 
 *Vastness.* Similar to the map stored in the Rijksmuseum, these images of Fuzhou seem to always carry the passionate gaze from the ambitious foreign surveyors towards the *exotic* project before their eyes. This attitude may remind us of Said’s description in *Orientalism* —to get hold of the ‘whole sprawling panorama’.

@@ -32,11 +32,11 @@ For this workshop, we want to demonstrate that making does not necessarily requi
 [![Dinosaurs and other decoration items](./images/dinosaurs.jpeg)](./images/dinosaurs.jpeg)
 *Dinosaurs and other decoration items, photographed by Burak Türköz*
 
-Thanks to Nat, Mónica, Anh, Betsy - for warmly sharing with us all the materials, without your help, this workshop would not be as fun as it was.
+Thanks to Nat, Mónica, Anh, Betsy - for warmly sharing the materials with us. Without their help, this workshop would not have been as fun as it was.
 
-Thanks to I-Wen and Maija, our festival volunteers, for their kindest help in organising the workshop and assisting the attendees.
+Thanks to I-Wen and Maija, our festival volunteers, for their hard work in assisting the workshop.
 
-And, many thanks to Sello Library Paja (the makerspace) and Ninho ry.
+And, many thanks to Sello Library Paja (the makerspace) and Kulttuurikeskus Ninho ry.
 
 ## Make It Yourself!
 

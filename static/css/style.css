@@ -47,7 +47,6 @@ p, ul, ol {
 a {
   text-decoration: none;
   color: black;
-  background-color: var(--colour-highlight);
 }
 
 a:hover {
@@ -78,7 +77,7 @@ article {
 }
 .container-post a{
     text-decoration: underline;
-    background: white;
+    background: var(--colour-highlight);
 }
 .container-post a:hover{
     text-decoration: underline;

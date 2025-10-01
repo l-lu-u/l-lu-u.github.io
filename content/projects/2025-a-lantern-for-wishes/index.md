@@ -11,15 +11,15 @@ draft: false
 
 ## Why are we making lanterns?
 
-**A Lantern for Wishes** is an art and craft workshop organised by [Burak Türköz](https://burakturkoz.gitlab.io/design-portfolio/) and I (Lù Chén) for [Kolibrí Festivaali](https://www.kolibrifestivaali.org/) 2025.
+**A Lantern for Wishes** is an art and craft workshop at Sello Library, Espoo, organised by [Burak Türköz](https://burakturkoz.gitlab.io/design-portfolio/) and I (Lù Chén) for [Kolibrí Festivaali](https://www.kolibrifestivaali.org/) 2025.
 
 Hence, we invite the children and their familities to make paper lantern together, and then decorate them with “amulets” that represent their past or future wishes. Feel free to bring any sentimental objects from home to decorate your lantern, or use the ones provided in the workshop. Bring your objects and wishes to life in this activity full of creativity and sensory play!
 
-Our workshop information on Kolibrí website: (https://www.kolibrifestivaali.org/event/a-lantern-for-wishes/)[https://www.kolibrifestivaali.org/event/a-lantern-for-wishes/]
+Our workshop information on Kolibrí website: [https://www.kolibrifestivaali.org/event/a-lantern-for-wishes/](https://www.kolibrifestivaali.org/event/a-lantern-for-wishes/)
 
 ## Make It Yourself!
 
-Below is an illustrated tutorial created by Burak Türköz and me orginally for the multi-lingual workshop. However, it can also be used as a guide for one to make it themselves at home.
+Below is an illustrated tutorial created by Burak Türköz and me. Orginally for the multi-lingual workshop, however, it can be used as a DIY guide for one to make lanterns themselves at home.
 
 [![Making paper lantern step 0 - an overview](./images/0-instructions.jpg)](./images/0-instructions.jpg)
 

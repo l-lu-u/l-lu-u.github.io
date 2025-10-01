@@ -47,6 +47,7 @@ p, ul, ol {
 a {
   text-decoration: none;
   color: black;
+  background-color: var(--colour-highlight);
 }
 
 a:hover {

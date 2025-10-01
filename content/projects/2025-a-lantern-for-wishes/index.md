@@ -58,7 +58,7 @@ If you are interested in using laser cut machine to cut the circles, you may fin
 - **Iso Omena Library** (Helsinki): [https://varaamo.espoo.fi/search?search=laser](https://varaamo.espoo.fi/search?search=laser)
 - **Lumo Library** (Vantaa) - "electronic cutting machine": [https://www.vantaa.fi/en/leisure-and-recreational-activities/library-services#tab-anchor-reservable-premises-and-devices-](https://www.vantaa.fi/en/leisure-and-recreational-activities/library-services#tab-anchor-reservable-premises-and-devices-)
 
-I made a pattern for cutting using Cuttle.xyz (with Education account), a web-based design tool for laser cutting: [https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr](https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr). [SVG cutting template can be downloaded here](./images/Paper-Lantern--Lantern-Component.svg).
+I made a pattern for cutting using Cuttle.xyz (with Education account), a web-based design tool for laser cutting: [https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr](https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr). SVG cutting template can be downloaded [here](./images/Paper-Lantern--Lantern-Component.svg) - the "hairline" looks very thin on screen, but there is actually the pattern.
 
 However, you can use any vector editors to design for laser cutting, for example, Inkscape is a free and open-source software, pretty handy for both artistic and technical illustrations. If you are a newbie for laser cutting and computer-aided design (like me at the beginning of 2024), you can refer to my learning diary below (linked in the **"Some Other Resources"** section).
 

@@ -10,6 +10,7 @@ draft: false
 *Art & Craft Workshop for Children, organised with [Burak Türköz](https://burakturkoz.gitlab.io/design-portfolio/) for [Kolibrí Festivaali](https://www.kolibrifestivaali.org/) 2025*
 
 [![A little hand holding a lantern](./images/hand-holding-lantern.jpeg)](./images/hand-holding-lantern.jpeg)
+*A child holding a finished lantern, photographed by Burak Türköz*
 
 ## Why are we making lanterns?
 
@@ -24,10 +25,12 @@ Our workshop information on Kolibrí website is linked here: [https://www.kolibr
 ## It was a workshop with around 300 dinosaurs - a big thank you to all the material donations and support!
 
 [![Materials on the workshop table](./images/materials.jpeg)](./images/materials.jpeg)
+*Materials on the workshop table, photographed by Burak Türköz*
 
 For this workshop, we want to demonstrate that making does not necessarily require expensive materials - sometimes, you can utilise the things that are just lying around in your home! For example, we used old magazines, flyers, and posters to cut out all the colourful paper circles. Other than that, we started asking through social circles if anyone has unneeded craft materials or small amulets for giveaway. And here, you can see all the amazing materials we had for the workshop - especially the hundreds of dinosaurs!
 
 [![Dinosaurs and other decoration items](./images/dinosaurs.jpeg)](./images/dinosaurs.jpeg)
+*Dinosaurs and other decoration items, photographed by Burak Türköz*
 
 Thanks to Nat, Mónica, Anh, Betsy - for warmly sharing with us all the materials, without your help, this workshop would not be as fun as it was.
 
@@ -58,6 +61,7 @@ If you are interested in using laser cut machine to cut the circles, you may fin
 Nevertheless, it is important to remind ourselves again that digital fabrication is *NOT* the only way to *MAKE* things. Cutting (with scissors), tearing, sewing, glueing - we can always exercise our crafts <3
 
 [![A drawing of family](./images/lantern-family-drawing.jpeg)](./images/lantern-family-drawing.jpeg)
+*A child proudly showcasing the lantern and a drawing of family, photographed by Burak Türköz*
 
 ## Some Other Resources
 - **A total beginner's learning diary of laser cutting** by Lù in 2024: [https://l-lu-u.gitlab.io/2024-digital-fabrication/weekly-assignments/week-05](https://l-lu-u.gitlab.io/2024-digital-fabrication/weekly-assignments/week-05/)

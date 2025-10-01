@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ or .Title .Site.Title }}{{ if ne .Kind "home" }} | {{ .CurrentSection.Title }}{{ end }}</title>
-    <link href="{{ .Site.BaseURL }}css/style.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
     {{- partial "head/favicons.html" . -}}
     {{- partial "head/metadata.html" . -}}

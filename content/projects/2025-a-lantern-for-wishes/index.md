@@ -10,7 +10,7 @@ draft: false
 *Art & Craft Workshop for Children, organised with [Burak Türköz](https://burakturkoz.gitlab.io/design-portfolio/) for [Kolibrí Festivaali](https://www.kolibrifestivaali.org/) 2025*
 
 [![A little hand holding a lantern](./images/hand-holding-lantern.jpeg)](./images/hand-holding-lantern.jpeg)
-*A child holding a finished lantern, photographed by Burak Türköz*
+*A parent holding a finished lantern, photographed by Burak Türköz*
 
 ## Why are we making lanterns?
 
@@ -57,6 +57,10 @@ If you are interested in using laser cut machine to cut the circles, you may fin
 - **Oodi Libary** (Helsinki): [https://varaamo.hel.fi/en/search?textSearch=laser](https://varaamo.hel.fi/en/search?textSearch=laser)
 - **Iso Omena Library** (Helsinki): [https://varaamo.espoo.fi/search?search=laser](https://varaamo.espoo.fi/search?search=laser)
 - **Lumo Library** (Vantaa) - "electronic cutting machine": [https://www.vantaa.fi/en/leisure-and-recreational-activities/library-services#tab-anchor-reservable-premises-and-devices-](https://www.vantaa.fi/en/leisure-and-recreational-activities/library-services#tab-anchor-reservable-premises-and-devices-)
+
+I made a pattern for cutting using Cuttle.xyz (with Education account), a web-based design tool for laser cutting: [https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr](https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr). SVG cutting template can be downloaded here: [https://l-lu-u.github.io/resources/Paper-Lantern--Lantern-Component.svg](https://l-lu-u.github.io/resources/Paper-Lantern--Lantern-Component.svg)
+
+However, you can use any vector editors to design for laser cutting, for example, Inkscape is a free and open-source software, pretty handy for both artistic and technical illustrations. If you are a newbie for laser cutting and computer-aided design (like me at the beginning of 2024), you can refer to my learning diary below (linked in the **"Some Other Resources"** section).
 
 Nevertheless, it is important to remind ourselves again that digital fabrication is *NOT* the only way to *MAKE* things. Cutting (with scissors), tearing, sewing, glueing - we can always exercise our crafts <3
 

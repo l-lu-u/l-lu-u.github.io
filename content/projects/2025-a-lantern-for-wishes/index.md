@@ -55,7 +55,7 @@ Below is an illustrated tutorial created by Burak Türköz and me. Orginally for
 
 If you are interested in using laser cut machine to cut the circles, you may find relevant facilities in public libraries:
 - **Oodi Libary** (Helsinki): [https://varaamo.hel.fi/en/search?textSearch=laser](https://varaamo.hel.fi/en/search?textSearch=laser)
-- **Iso Omena Library** (Helsinki): [https://varaamo.espoo.fi/search?search=laser](https://varaamo.espoo.fi/search?search=laser)
+- **Iso Omena Library** (Espoo): [https://varaamo.espoo.fi/search?search=laser](https://varaamo.espoo.fi/search?search=laser)
 - **Lumo Library** (Vantaa) - "electronic cutting machine": [https://www.vantaa.fi/en/leisure-and-recreational-activities/library-services#tab-anchor-reservable-premises-and-devices-](https://www.vantaa.fi/en/leisure-and-recreational-activities/library-services#tab-anchor-reservable-premises-and-devices-)
 
 I made a pattern for cutting using Cuttle.xyz (with Education account), a web-based design tool for laser cutting: [https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr](https://cuttle.xyz/@lu_u/Paper-Lantern-GxHLO7L5ABhr). SVG cutting template can be downloaded [here](./images/Paper-Lantern--Lantern-Component.svg) - the "hairline" looks very thin on screen, but there is actually the pattern.

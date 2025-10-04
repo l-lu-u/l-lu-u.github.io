@@ -40,7 +40,10 @@ And, many thanks to Sello Library Paja (the makerspace) and Kulttuurikeskus Ninh
 
 ## Make It Yourself!
 
-Below is an illustrated tutorial created by Burak Türköz and me. Orginally for the multi-lingual workshop, however, it can also be used as a DIY guide for one to make lanterns on their own! The tutorial consists five images in total, the first one presents an overview of the necessary materials.
+Below is an illustrated tutorial created by Burak Türköz and me. We made this tutorial based on 
+**Uzma Parveen**'s lantern making tutorial on YouTube: [https://www.youtube.com/watch?v=P-Oq4Hhx37A](https://www.youtube.com/watch?v=P-Oq4Hhx37A).
+
+Orginally designed for the multi-lingual workshop, however, this graphic tutorial can also be used as a DIY guide for one to make lanterns on their own! The tutorial consists five images in total, the first one presents an overview of the necessary materials.
 
 [![Making paper lantern step 0 - an overview](./images/0-instructions.jpg)](./images/0-instructions.jpg)
 

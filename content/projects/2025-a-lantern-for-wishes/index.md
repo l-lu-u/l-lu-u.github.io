@@ -7,7 +7,7 @@ date: 2025-09-21T07:07:07+01:00
 draft: false
 ---
 
-*Art & Craft Workshop for Children, organised with [Burak Türköz](https://burakturkoz.gitlab.io/design-portfolio/) for [Kolibrí Festivaali](https://www.kolibrifestivaali.org/) 2025*
+*Art & Craft Workshop for Children, organised by [Lù Chén](https://l-lu-u.github.io/) & [Burak Türköz](https://burakturkoz.gitlab.io/design-portfolio/) for [Kolibrí Festivaali](https://www.kolibrifestivaali.org/) 2025*
 
 [![A little hand holding a lantern](./images/hand-holding-lantern.jpeg)](./images/hand-holding-lantern.jpeg)
 *A parent holding a finished lantern, photographed by Burak Türköz*

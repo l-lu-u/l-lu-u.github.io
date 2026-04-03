@@ -1,60 +1,91 @@
 document.addEventListener("DOMContentLoaded", function() {
-    // Function to generate a random path
-    function generateRandomPath(seed) {
-        let points = Math.floor(Math.random() * (9 - 6 + 1)) + 6;;
-        let radius = 90;
-        let pathData = [];
-        for (let i = 0; i < points; i++) {
-            let angle = (i / points) * (2 * Math.PI);
-            let x = radius * Math.cos(angle) + Math.random() * 20 - 10;
-            let y = radius * Math.sin(angle) + Math.random() * 20 - 10;
-            pathData.push(`${x},${y}`);
+    
+    // Helper to create a smooth, closed organic path
+    function generateOrganicContour(radius, jitter, seed) {
+        const points = [];
+        const numPoints = Math.floor(Math.random() * (18 - 8) + 8); // Enough for detail, few enough to stay smooth
+        
+        // 1. Generate random points in a circle with jitter
+        for (let i = 0; i < numPoints; i++) {
+            let angle = (i / numPoints) * (2 * Math.PI);
+            // Use a bit of Math.sin/cos with seed to make layers look related
+            let dynamicJitter = (Math.sin(i + seed) * jitter);
+            let r = radius + dynamicJitter;
+            points.push({
+                x: r * Math.cos(angle),
+                y: r * Math.sin(angle)
+            });
         }
-        return `M${pathData.join('L')}Z`;
-    }
 
-    // Function to generate random position within the parent box
-    function generateRandomPosition(parentWidth, parentHeight) {
-        let x = Math.random() * (parentWidth - 200) - (parentWidth / 2 - 100);
-        let y = Math.random() * (parentHeight - 200) - (parentHeight / 2 - 100);
-        return { x, y };
+        // 2. Build the SVG path using Quadratic Curves (Q)
+        // find the midpoint between points to use as the curve anchor
+        let d = `M ${(points[0].x + points[numPoints - 1].x) / 2},${(points[0].y + points[numPoints - 1].y) / 2}`;
+        
+        for (let i = 0; i < numPoints; i++) {
+            let next = (i + 1) % numPoints;
+            let midX = (points[i].x + points[next].x) / 2;
+            let midY = (points[i].y + points[next].y) / 2;
+            // Q [control point] [end point]
+            d += ` Q ${points[i].x},${points[i].y} ${midX},${midY}`;
+        }
+        return d + "Z";
     }
 
     const posts = document.querySelectorAll('.post-entry');
+    
     posts.forEach((post, index) => {
-        const shapePath = generateRandomPath(index);
-        const position = generateRandomPosition(300, 300);
-        const svgElement = `
-            <svg viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg" style="transform: translate(${position.x}px, ${position.y}px);">
-                <path fill="white" stroke="black" stroke-width="1" d="${shapePath}" class="svg-path" />
-            </svg>`;
         const shapeContainer = post.querySelector('.organic-shape');
-        shapeContainer.innerHTML = svgElement;
+        const seed = index * 10; // Ensures each post has a unique but stable shape
+        
+        let svgContent = `<svg viewBox="-150 -150 300 300" xmlns="http://www.w3.org/2000/svg">`;
+        
+        // Draw 4 layers of contours
+        // We decrease radius AND decrease jitter for the "peak" (inner circles)
+        const layers = [
+            { rad: 120, jit: 25, op: 1.0 },
+            // { rad: 95,  jit: 20, op: 0 },
+            // { rad: 70,  jit: 15, op: 0 },
+            // { rad: 45,  jit: 10, op: 0 } 
+        ];
 
-        // Center the post content within the shape
-        const content = post.querySelector('.post-content');
-        content.style.position = 'absolute';
-        content.style.top = '50%';
-        content.style.left = '50%';
-        content.style.transform = 'translate(-50%, -50%)';
-
-        // Hover effect
-        post.addEventListener('mouseenter', function() {
-            const svgPath = post.querySelector('.svg-path');
-            svgPath.style.fill = 'black';
-            const title = post.querySelector('.post-title');
-            title.style.color = 'white';
-            const subtitle = post.querySelector('.post-subtitle');
-            subtitle.style.display = 'block'; // Show subtitle on hover
+        layers.forEach((layer) => {
+            const pathData = generateOrganicContour(layer.rad, layer.jit, seed);
+            svgContent += `
+                <path d="${pathData}" 
+                      fill="white" 
+                      stroke="black" 
+                      stroke-width="1" 
+                      opacity="${layer.op}" 
+                      class="contour-line" />`;
         });
 
-        post.addEventListener('mouseleave', function() {
-            const svgPath = post.querySelector('.svg-path');
-            svgPath.style.fill = 'white';
-            const title = post.querySelector('.post-title');
-            title.style.color = 'black';
+        svgContent += `</svg>`;
+        shapeContainer.innerHTML = svgContent;
+        
+        const imageUrl = post.getAttribute('data-image');
+        console.log(imageUrl);
+        console.log(window.siteConfig.baseUrl);
+        const hoverImg = document.createElement('img');
+        hoverImg.className = 'hover-preview-image';
+        if (imageUrl!== 'none' ) {
+            hoverImg.src = window.siteConfig.baseUrl + imageUrl;;
+            post.prepend(hoverImg);
+        } 
+        
+        post.addEventListener('mouseenter', () => {
+            hoverImg.style.display = 'block';
+            hoverImg.style.transform = 'translate(-50%, -50%) scale(1.1)';
+            const subtitle = post.querySelector('.post-subtitle');
+            subtitle.style.display = 'block';
+            post.style.zIndex = "10"; // Bring hovered item to front
+        });
+
+        post.addEventListener('mouseleave', () => {
+            hoverImg.style.display = 'none';
+            hoverImg.style.transform = 'translate(-50%, -50%) scale(1)';
             const subtitle = post.querySelector('.post-subtitle');
             subtitle.style.display = 'none';
+            post.style.zIndex = "1";
         });
     });
 });

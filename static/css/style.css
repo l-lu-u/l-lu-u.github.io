@@ -170,12 +170,24 @@ img {
 }
 .contour-line {
     transition: stroke 0.3s, opacity 0.3s;
+    fill: white;
+    stroke: black;
+    stroke-width: 1;
 }
 /* Hover effect for SVG path */
 .post-entry:hover .contour-line {
     transition: fill 0.3s ease;
     cursor: pointer;
-    height: 400px
+    height: 400px;
+    fill: black;
+}
+.post-entry:hover .post-title {
+    background: black;
+    color: white;
+}
+.post-entry:hover .post-subtitle {
+    background: black;
+    color: white;
 }
 .hover-preview-image {
     /* Create a "clipped" look so the image feels contained by the mountain */

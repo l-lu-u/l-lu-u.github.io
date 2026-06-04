@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
         let svgContent = `<svg viewBox="-150 -150 300 300" xmlns="http://www.w3.org/2000/svg">`;
         
         // Draw 4 layers of contours
-        // We decrease radius AND decrease jitter for the "peak" (inner circles)
+        // decrease radius AND decrease jitter for the "peak" (inner circles)
         const layers = [
             { rad: 120, jit: 25, op: 1.0 },
             // { rad: 95,  jit: 20, op: 0 },
@@ -52,9 +52,6 @@ document.addEventListener("DOMContentLoaded", function() {
             const pathData = generateOrganicContour(layer.rad, layer.jit, seed);
             svgContent += `
                 <path d="${pathData}" 
-                      fill="white" 
-                      stroke="black" 
-                      stroke-width="1" 
                       opacity="${layer.op}" 
                       class="contour-line" />`;
         });

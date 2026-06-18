@@ -4,7 +4,7 @@ subtitle: "essays on panoramas & archives"
 description: "part of exhibition 'Panoramic Unapologetic Kinetic Embodiment'"
 image: "./images/20250101--dao-shan-ting.jpg"
 date: 2025-07-15T07:07:07+01:00
-draft: true
+draft: false
 ---
 
 *panoramas in Fuzhou and the city of Fuzhou in digital archives*

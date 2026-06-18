@@ -11,7 +11,7 @@ draft: false
 
 ## Question: How participatory design might facilitate immigrants' civic engagement (in Finland)?
 
-(This work is publicly available on AaltoDoc, you may access it here: <https://urn.fi/URN:NBN:fi:aalto-202307094449>)
+This work is publicly available on AaltoDoc, you may access it here: [https://urn.fi/URN:NBN:fi:aalto-202307094449](https://urn.fi/URN:NBN:fi:aalto-202307094449)
 
 During the spring of 2023, I graduated from the BA Design study with my thesis titled *“From Workshops to Civic Life: Participatory Design in Supporting Immigrants’ Civic Engagement in Finland.”* In this thesis, I aimed to investigate the roles of design and designers in supporting immigrants’ civic engagement in Finland. By interviewing 8 designers who had experiences working with public agencies and participants with immigrant backgrounds, I acquired an overview about the applications of design in public service development, as well as designers' challenges.
 

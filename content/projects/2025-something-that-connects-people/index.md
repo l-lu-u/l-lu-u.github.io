@@ -17,6 +17,7 @@ Archives are documentary by-products generated in activities of both individuals
 
 Yet, accessibility can not be simply treated a natural outcome of digitality. For one thing, digital obsolescence affects the stability of records. For another, the design of digital interfaces often disguises the assumptions and biases of the process. Furthermore, existing archival user research has predominantly focused on academic users and their archival research experiences, which limits the possibility of reaching wider archival users.
 
-Combining Stuart Hall’s notion of ‘living archive’ and the Records Continuum Model, this thesis recognises the plurality in interpreting archival materials and the possibility of using them outside academic settings. I conducted a single-case study on the Nokia Design Archive, exploring the potential for the archive to engage the public through social remembering.
+Combining Stuart Hall’s notion of ‘living archive’ and the Records Continuum Model, this thesis recognises the plurality in interpreting archival materials and the possibility of using them outside academic settings. I conducted a single-case study on the [Nokia Design Archive](https://nokiadesignarchive.aalto.fi/), exploring the potential for the archive to engage the public through social remembering.
 
-## Interview Probe: A Souvenir from Your Memory
+## Approaching the Archive as an Non-archivist
+

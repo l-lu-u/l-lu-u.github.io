@@ -8,10 +8,10 @@ I'm Lu, a designer and artist currently based in Helsinki. Before moving to Finl
 
 Like the life in the tropics 🌴 and the Nordics 🌲, I'm intrigued by the connections between seemingly contrasting things. Through (design) practices, I explore the surrounding world, communicate the findings, and thus connect the loose parts together. For me, design is the reflection-in-action, a bridge between vita activa (active life 🙌) and vita contemplativa (comtemplative life 🧠).
 
-I'm open for jobs in service design, design research, and any initiatives aligning with my practices and interests. If you'd like to get in touch, feel free to contact me through email 📥 [lu.does.stuff@outlook.com](lu.does.stuff@outlook.com) or 🤝 LinkedIn [Lu Chen](https://www.linkedin.com/in/l%C3%B9-ch%C3%A9n-43177191/)
+I'm open for jobs in service design, design research, and any initiatives aligning with my practices and interests. If you'd like to get in touch, feel free to contact me through email 📥 [lu.does.stuff@proton.me](lu.does.stuff@proton.me) or 🤝 LinkedIn [Lu Chen](https://www.linkedin.com/in/l%C3%B9-ch%C3%A9n-43177191/)
 
 
 ### Others
 - 💾 instagram->[@lu.does.stuff](https://www.instagram.com/lu.does.stuff/)
-- 🎬 youtube->[lù does stuff](https://www.youtube.com/@lu_does_stuff")
+- 🎬 youtube->[lù does stuff](https://www.youtube.com/@lu_does_stuff)
 - 📸 [flickr](https://www.flickr.com/people/chenlu-ciel/)
